@@ -34,7 +34,7 @@
     "react-dom": "^16.13.1"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17"
+    "react": "^16.8.0 || ^17 || ^18"
   },
   "scripts": {
     "build": "nwb build-react-component",
